@@ -74,6 +74,8 @@ a:hover{
 
 li{
     font-family: 'Fredoka One', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 figure{
