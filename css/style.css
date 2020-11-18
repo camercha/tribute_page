@@ -90,6 +90,11 @@ footer{
     align-items: center;
 }
 
+@media(max-width:768px){
+    #facts{
+        width: 100%;
+    }
+}
 
 
 
