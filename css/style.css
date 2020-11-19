@@ -21,6 +21,7 @@ h1, h2{
     margin-top: 10px ;
     margin-bottom: 10px ;
     font-family: 'Fredoka One', cursive;
+   
 }
 
 header p{
@@ -60,6 +61,10 @@ main{
     align-items: center;
     width: 50%;
 
+}
+
+#facts h2{
+    
 }
 
 a{
